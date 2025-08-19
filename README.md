@@ -1,4 +1,4 @@
-# Home Pets Adoption Website
+# PetHub Adoption Website
 ## How to start website application (Using XAMPP)
 1. Download and run XAMPP
 2. Place folder into htdocs folder of XAMPP
@@ -7,6 +7,6 @@
 
 **for admin access, log in as username: Help2, password: 123**
 
-![Image of Home Pets website main page](readme-images/homePetsMainPage.png)
+![Image of PetHub website main page](readme-images/homePetsMainPage.png)
 
 ![Gif of adoption listing page](readme-images/adoptionListing.gif)

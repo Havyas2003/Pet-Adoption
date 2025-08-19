@@ -42,7 +42,7 @@
 
   <!-- =======================================================
   * Template Name: PetHub - v3.1.0
-  * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
+  * Template URL: https://bootstrapmade.com/PetHub-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -191,7 +191,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I had a wonderful time working with Home Pets. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
+                  I had a wonderful time working with PetHub. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -204,7 +204,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I adopted all of my beloved corgis from PetHub. Home Pets was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
+                  I adopted all of my beloved corgis from PetHub. PetHub was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -217,7 +217,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I do my best to ensure all of the animals in my practice are comfortable, happy and safe. Home Pets does their part to make all their animals feel that way too.
+                  I do my best to ensure all of the animals in my practice are comfortable, happy and safe. PetHub does their part to make all their animals feel that way too.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -328,7 +328,7 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="member" data-aos="zoom-in" data-aos-delay="100">
-              <img src="../assets/img/staff/president.jpeg" class="img-fluid" alt="president of Home Pets">
+              <img src="../assets/img/staff/president.jpeg" class="img-fluid" alt="president of PetHub">
               <div class="member-info">
                 <div class="member-info-content">
                   <h4>Steven</h4>
@@ -435,7 +435,7 @@
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Home Pets-restaurant-template/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/PetHub-restaurant-template/ -->
         <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>

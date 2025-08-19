@@ -44,7 +44,7 @@
 
   <!-- =======================================================
   * Template Name: PetHub - v3.1.0
-  * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
+  * Template URL: https://bootstrapmade.com/PetHub-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->

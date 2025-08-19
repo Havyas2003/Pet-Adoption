@@ -43,8 +43,8 @@
   <link href="../assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Home Pets - v3.1.0
-  * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
+  * Template Name: PetHub - v3.1.0
+  * Template URL: https://bootstrapmade.com/PetHub-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -124,7 +124,7 @@
             if ($result->num_rows > 0) {
             // output data of each row
             while($row = $result->fetch_assoc()) {
-              echo "<a href='../assets/form/Home Pets Adoption Form.docx' download><h1>Download Adoption Form Here</h1></a>";
+              echo "<a href='../assets/form/PetHub Adoption Form.docx' download><h1>Download Adoption Form Here</h1></a>";
               echo "<h2>Adoption Form for " . $row["animalName"] . "</h2>";
               echo "<img src='../assets/img/animals/" . $row["animalName"] . "." . $row["imgType"] . "' height = '250px' width = '250px' >";
               echo "<form action='../functions.php' method='post' enctype='multipart/form-data' data-aos='fade-up' data-aos-delay='100'>

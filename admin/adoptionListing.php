@@ -41,8 +41,8 @@
   <link href="../assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Home Pets - v3.1.0
-  * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
+  * Template Name: PetHub - v3.1.0
+  * Template URL: https://bootstrapmade.com/PetHub-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -178,7 +178,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
                 41, Moodabidri<br>
                 Mangalore<br><br>
@@ -216,7 +216,7 @@
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Home Pets-restaurant-template/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/PetHub -restaurant-template/ -->
         <!--Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>-->
       </div>
     </div>
