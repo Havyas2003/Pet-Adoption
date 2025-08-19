@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Adoption Process</title>
+  <title>PetHub - Adoption Process</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -41,7 +41,7 @@
   <link href="../assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Home Pets - v3.1.0
+  * Template Name: PetHub - v3.1.0
   * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
 
@@ -143,6 +143,7 @@
           <div class="tab-pane active show" id="tab-1">
             <div class="row">
               <div class="col-lg-8 details order-2 order-lg-1">
+                <br>
                 <h3>Look for An Animal To Adopt</h3>
                 <p>You can either go through the <a href="adoptionListing.php">Animal Listing</a> page on the website to look for a furry friend or go to the shelter during opening hours to look</p>
               </div>
@@ -154,6 +155,7 @@
           <div class="tab-pane" id="tab-2">
             <div class="row">
               <div class="col-lg-8 details order-2 order-lg-1">
+                <br>
                 <h3>Prepare Yourself</h3>
                 <p>Educate yourself on the responsibilities that come with adopting. Prepare yourself on fulfilling the needs of your pet and to ensure they are happy, healthy and comfortable in their new home</p>
               </div>
@@ -165,6 +167,7 @@
           <div class="tab-pane" id="tab-3">
             <div class="row">
               <div class="col-lg-8 details order-2 order-lg-1">
+                <br>
                 <h3>Submit Your Application</h3>
                 <p>Submit your adoption application for the animal you are interested in adopting. You can submit it online or submit a physical copy to the shelter through mail or bringing it there</p>
               </div>
@@ -176,6 +179,7 @@
           <div class="tab-pane" id="tab-4">
             <div class="row">
               <div class="col-lg-8 details order-2 order-lg-1">
+                <br>
                 <h3>Visit Your Chosen Animal</h3>
                 <p>If your application is accepted, an online video call will be done. Afterwards, you will go to the shelter to meet the animal. A staff member will visit your home with the animal if everything goes well</p>
               </div>
@@ -187,6 +191,7 @@
           <div class="tab-pane" id="tab-5">
             <div class="row">
               <div class="col-lg-8 details order-2 order-lg-1">
+                <br>
                 <h3>Love Your New Family Member</h3>
                 <p>The animal will be either sent to your home by staff or brought home by you. You will have a new addition to your family to love and cherish</p>
               </div>
@@ -210,12 +215,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41, Moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

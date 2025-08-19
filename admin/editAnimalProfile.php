@@ -19,7 +19,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Edit Animal Profile</title>
+  <title>PetHub - Edit Animal Profile</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -57,7 +57,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
     </div>
@@ -140,9 +140,9 @@
             <p>Animal Type : " . $row["animalType"] . "</p>
             <select class='form-select' name='newAnimalType'>
               <option selected value='" . $row["animalType"] . "'>" . $row["animalType"] . "</option>
-              <option value='Dog'>Dog</option>
-              <option value='Cat'>Cat</option>
-              <option value='Other'>Other</option>
+              <option value='Dog'>0-1</option>
+              <option value='Cat'>1-2</option>
+              <option value='Other'>2&above</option>
             </select>
           </div>
           <br>
@@ -219,12 +219,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41, Moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -251,14 +251,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Home Pets</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>PetHub</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Home Pets-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->

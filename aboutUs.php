@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - About Us</title>
+  <title>PetHub - About Us</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
 
@@ -121,12 +121,12 @@
 
         <div class="text-center">
           <div class="fortxt">
-            <p style="text-align: left;">The HP (home Pets ) organize by Mr.Steven since 2008.HP (Home Pets) is a non-profit animal shelter that helps the adoption of unwanted animals. However, the currect web system does not display pictures or information about the animals. The adoption process is also done manually at the shelter, which can be time wasting and troublesome. It causes less people to want to adopt animals.</p>
+            <p style="text-align: left;">The PH(PetHub) organize by PetHub Organization since 2025.PH (PetHub) is a non-profit animal shelter that helps the adoption of unwanted animals. However, the currect web system does not display pictures or information about the animals. The adoption process is also done manually at the shelter, which can be time wasting and troublesome. It causes less people to want to adopt animals.</p>
           </div>
         <div class="forimage">
           <p>
-          <img src="assets/img/staff/president.jpeg" class="img-fluid">
-          <p>Founder : Mr.Steven </p>
+          <img src="assets/img/staff/president.jpg" class="img-fluid">
+          <!--<p>Founder : Mr.Steven </p>-->
         </p>
 
           </div>
@@ -201,7 +201,7 @@
   </section>
 
 
-  <section id="contact" class="contact">
+<!--  <section id="contact" class="contact">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
@@ -227,7 +227,7 @@
    
 
        
-  </section><!-- End Contact Section -->
+  </section>--><!-- End Contact Section -->
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
@@ -237,12 +237,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41, moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

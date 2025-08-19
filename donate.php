@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Donate</title>
+  <title>PetHub - Donate</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
     </div>
@@ -118,12 +118,12 @@
 
     <p> Donate by bank transfer</p>
     <div class="donate-details">
-      <p> Account Name : Home Pets Animal Society</p>
+      <p> Account Name : PetHub Animal Care</p>
       <p> Account No : 562852104418</p>
-      <p> Bank Details: Maybank </p>
-      <p> Branch: Maybank (KL Main Branch) </p>
-      <p> Swift Code: MBBEMYKL</p>
-      <p>Once you’ve completed the transaction, kindly drop a note to our email address:Donate@HomePet.com.my We will issue receipts for payments made and mail them to the address given.</p>
+      <p> Bank Details: Canara Bank</p>
+      <p> Branch: Moodabidri  </p>
+      <p> Swift Code: CNREMYKL</p>
+      <p>Once you’ve completed the transaction, kindly drop a note to our email address:Donate@PetHub.com.my We will issue receipts for payments made and mail them to the address given.</p>
     </div>
   
   </div>
@@ -152,12 +152,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41, Moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

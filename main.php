@@ -17,13 +17,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Home</title>
+  <title>PetHub - Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.ico" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\favicon.png" rel="icon">
+  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -41,8 +41,8 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Home Pets - v3.1.0
-  * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
+  * Template Name: PetHub - v3.1.0
+  * Template URL: https://bootstrapmade.com/PetHub-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
   ======================================================== -->
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
     </div>
@@ -65,7 +65,7 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
       
-      <a href="main.php" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>
+      <a href="main.php" class="logo me-auto me-lg-0"><img src="assets\img\logo.png" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
@@ -111,13 +111,13 @@
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
             <div class="about-img">
-              <img src="assets/img/shelter.jpg" alt="Home Pets Shelter">
+              <img src="assets/img/shelter.jpg" alt="PetHub Shelter">
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
             <h3>PetHub Animal Shelter</h3>
             <p class="fst-italic">
-              HP (Home Pets) is a non-profit animal shelter that helps the adoption of unwanted animals
+              PH (PetHub) is a non-profit animal shelter that helps the adoption of unwanted animals
             </p>
             <ul>
               <li><i class="bi bi-check-circle"></i> We are a no-kill shelter</li>
@@ -190,7 +190,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I had a wonderful time working with Home Pets. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
+                  I had a wonderful time working with PetHub. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
@@ -203,7 +203,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I adopted all of my beloved corgis from Home Pets. Home Pets was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
+                  I adopted all of my beloved corgis from PethUB. PetHub was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -216,7 +216,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I do my best to ensure all of the animals in my practice are comfortable, happy and safe. Home Pets does their part to make all their animals feel that way too.
+                  I do my best to ensure all of the animals in my practice are comfortable, happy and safe. PetHub does their part to make all their animals feel that way too.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
@@ -327,7 +327,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
                 41, moodabidri<br>
                 574110 Mnagalore, Dakshina kannada district<br><br>
@@ -368,8 +368,8 @@
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Home Pets-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/PetHub-restaurant-template/ -->
+       <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->

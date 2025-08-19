@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Contact Us</title>
+  <title>PetHub - Contact Us</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
     </div>
@@ -118,7 +118,12 @@
     </div>
 
     <div data-aos="fade-up">
-      <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3984.100826420989!2d101.68464991395125!3d3.0677205977660402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc4a8c80ba284b%3A0x4bbd51930430048!2sHome%20Pet%20Food%20%26%20Care!5e0!3m2!1sen!2smy!4v1617265388710!5m2!1sen!2smy" frameborder="0" allowfullscreen></iframe>
+<iframe 
+  style="border:0; width: 100%; height: 350px;" 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.8129281568184!2d74.84807997480428!3d12.914141587397094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba35a1d6a0b27f9%3A0x7b1f0d24f2c1c83a!2sMangalore%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1692189451234!5m2!1sen!2sin" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
     </div>
 
     <div class="container" data-aos="fade-up">
@@ -130,9 +135,9 @@
             <div class="address">
               <i class="bi bi-geo-alt"></i>
               <h4>Location:</h4>
-              <p>41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur<br>
-                Wilayah Persekutuan Kuala Lumpur</p>
+              <p>41, Moodabidri<br>
+                Mangalore<br>
+                <!-- Wilayah Persekutuan Kuala Lumpur</p> -->
             </div>
 
             <div class="open-hours">
@@ -147,13 +152,13 @@
             <div class="email">
               <i class="bi bi-envelope"></i>
               <h4>Email:</h4>
-              <p>homepets@gmail.com</p>
+              <p>pethub@gmail.com</p>
             </div>
 
             <div class="phone">
               <i class="bi bi-phone"></i>
               <h4>Call:</h4>
-              <p>+1 5589 55488 55s</p>
+              <p>+91 9876543210</p>
             </div>
 
           </div>
@@ -173,12 +178,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41,Moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

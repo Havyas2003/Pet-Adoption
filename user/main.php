@@ -17,13 +17,13 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Home Pets - Home</title>
+  <title>PetHub - Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="../assets/img/favicon.ico" rel="icon">
-  <link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\favicon.png" rel="icon">
+  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -41,7 +41,7 @@
   <link href="../assets/css/style.css" rel="stylesheet">
 
   <!-- =======================================================
-  * Template Name: Home Pets - v3.1.0
+  * Template Name: PetHub - v3.1.0
   * Template URL: https://bootstrapmade.com/Home Pets-restaurant-template/
   * Author: BootstrapMade.com
   * License: https://bootstrapmade.com/license/
@@ -55,7 +55,7 @@
     <div class="container d-flex justify-content-center justify-content-md-between">
 
       <div class="contact-info d-flex align-items-center">
-        <i class="bi bi-phone d-flex align-items-center"><span>+1 5589 55488 55</span></i>
+        <i class="bi bi-phone d-flex align-items-center"><span>+91 9876543210</span></i>
         <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 9AM - 4PM</span></i>
       </div>
     </div>
@@ -97,7 +97,7 @@
   <section id="hero" class="d-flex align-items-center">
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
         <div class="col-lg-8" style="text-align: center;">
-          <h1>Welcome to <span>Home Pets</span>, <?php echo $_SESSION['user']['username']; ?></h1>
+          <h1>Welcome to <span>PetHub</span>, <?php echo $_SESSION['user']['username']; ?></h1>
           <h2>Helping animals find their forever homes since 2008!</h2>
         </div>
     </div>
@@ -116,9 +116,9 @@
             </div>
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>Home Pets Animal Shelter</h3>
+            <h3>PetHub Animal Shelter</h3>
             <p class="fst-italic">
-              HP (Home Pets) is a non-profit animal shelter that helps the adoption of unwanted animals
+              PH (PetHub) is a non-profit animal shelter that helps the adoption of unwanted animals
             </p>
             <ul>
               <li><i class="bi bi-check-circle"></i> We are a no-kill shelter</li>
@@ -204,7 +204,7 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I adopted all of my beloved corgis from Home Pets. Home Pets was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
+                  I adopted all of my beloved corgis from PetHub. Home Pets was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="../assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
@@ -316,7 +316,7 @@
     </section><!-- End Gallery Section -->
 
     <!-- ======= Staff Section ======= -->
-    <section id="chefs" class="chefs">
+   <!-- <section id="chefs" class="chefs">
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
@@ -383,7 +383,7 @@
         </div>
 
       </div>
-    </section><!-- End Chefs Section -->
+    </section>--> <!-- End Chefs Section -->
 
   </main><!-- End #main -->
 
@@ -394,12 +394,12 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Home Pets</h3>
+              <h3>PetHub</h3>
               <p>
-                41, Jalan 1/149j, Sri Petaling<br>
-                57000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur<br><br>
-                <strong>Phone:</strong> +1 5589 55488 55<br>
-                <strong>Email:</strong> homepets@gmail.com<br>
+                41, Moodabidri<br>
+                Mangalore<br><br>
+                <strong>Phone:</strong> +91 9876543210<br>
+                <strong>Email:</strong> pethub@gmail.com<br>
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -429,14 +429,14 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong><span>Home Pets</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>PetHub</span></strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/Home Pets-restaurant-template/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->
