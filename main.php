@@ -22,8 +22,9 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\favicon.png" rel="icon">
-  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\apple-touch-icon.png" rel="apple-touch-icon">
+<link href="assets/img/favicon.png" rel="icon">
+<link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -174,7 +175,7 @@
 
     
 
-    <!-- ======= Testimonials Section ======= -->
+       <!-- ======= Testimonials Section ======= -->
     <section id="testimonials" class="testimonials section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -193,9 +194,9 @@
                   I had a wonderful time working with PetHub. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Barack Obama</h3>
-                <h4>Ex US President</h4>
+                <img src="../assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
+                <h3>Dr. Anil Devraj</h3>
+                <h4>Ex Staff</h4>
               </div>
             </div><!-- End testimonial item -->
 
@@ -203,11 +204,11 @@
               <div class="testimonial-item">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  I adopted all of my beloved corgis from PethUB. PetHub was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
+                  I adopted all of my beloved corgis from PetHub. PetHub was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Elizabeth</h3>
+                <img src="../assets/img/testimonials/testimonials-2.png" class="testimonial-img" alt="">
+                <h3>Rukmini Devi Arundale</h3>
                 <h4>Adopter</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -219,8 +220,8 @@
                   I do my best to ensure all of the animals in my practice are comfortable, happy and safe. PetHub does their part to make all their animals feel that way too.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Dr Doug</h3>
+                <img src="../assets/img/testimonials/testimonials-3.png" class="testimonial-img" alt="">
+                <h3>Dr Meera Menon</h3>
                 <h4>Volunteer Veterinarian</h4>
               </div>
             </div><!-- End testimonial item -->
@@ -230,6 +231,7 @@
 
       </div>
     </section><!-- End Testimonials Section -->
+
 
     <!-- ======= Gallery Section ======= -->
     <section id="gallery" class="gallery">

@@ -26,9 +26,11 @@ if (!isAdmin()) {
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <title>PetHub - Admin</title>
 
-  <!-- Favicons -->
-  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\favicon.png" rel="icon">
-  <link href="C:\xampp\htdocs\Pet-Adoption-Website-main\assets\img\apple-touch-icon.png" rel="apple-touch-icon">
+<!-- Favicons for Admin Pages -->
+<link href="../assets/img/favicon.png" rel="icon" type="image/png">
+<link href="../assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Poppins:300,400,500,600,700" rel="stylesheet">
