@@ -194,7 +194,7 @@
                   I had a wonderful time working with PetHub. The animals in the shelters were cared for with care. All of the staff are passionate about helping animals.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="../assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-1.png" class="testimonial-img" alt="">
                 <h3>Dr. Anil Devraj</h3>
                 <h4>Ex Staff</h4>
               </div>
@@ -207,7 +207,7 @@
                   I adopted all of my beloved corgis from PetHub. PetHub was a delight to work with and I hope others who are interested in having pets will adopt instead of shop.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="../assets/img/testimonials/testimonials-2.png" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-2.png" class="testimonial-img" alt="">
                 <h3>Rukmini Devi Arundale</h3>
                 <h4>Adopter</h4>
               </div>
@@ -220,7 +220,7 @@
                   I do my best to ensure all of the animals in my practice are comfortable, happy and safe. PetHub does their part to make all their animals feel that way too.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
-                <img src="../assets/img/testimonials/testimonials-3.png" class="testimonial-img" alt="">
+                <img src="assets/img/testimonials/testimonials-3.png" class="testimonial-img" alt="">
                 <h3>Dr Meera Menon</h3>
                 <h4>Volunteer Veterinarian</h4>
               </div>

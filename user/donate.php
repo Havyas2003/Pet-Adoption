@@ -132,7 +132,7 @@
   </div>
 
     <div class="donate-image">
-      <img src="../assets/img/donate.jpg" style="height: 420px;width: 450px;">
+      <img src="../assets/img/testimonials/qr1.png" style="height: 420px;width: 450px;">
     </div>
     <br>
   </div> 
