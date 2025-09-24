@@ -122,7 +122,7 @@
 
         <div class="text-center">
           <div class="fortxt">
-            <p style="text-align: left;">The PH(PetHub) organize by PetHub Organization since 2025.PH (PetHub) is a non-profit animal shelter that helps the adoption of unwanted animals. However, the currect web system does not display pictures or information about the animals. The adoption process is also done manually at the shelter, which can be time wasting and troublesome. It causes less people to want to adopt animals.</p>
+            <p style="text-align: left;">The PH(PetHub) organize by PetHub Organization since 2023.PH (PetHub) is a non-profit animal shelter that helps the adoption of unwanted animals. However, the currect web system does not display pictures or information about the animals. The adoption process is also done manually at the shelter, which can be time wasting and troublesome. It causes less people to want to adopt animals.</p>
           </div>
         <div class="forimage">
           <p>
